@@ -15,7 +15,6 @@ const AppHome = () => {
 
   const [isMapOpen, setIsMapOpen] = useState(false);
 
-  const [isModalOpen, setIsModalOpen] = useState(false);
 
   const navigate = useNavigate();
   
